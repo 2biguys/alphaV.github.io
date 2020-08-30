@@ -1,8 +1,8 @@
 # Site settings
 title: 로보에널리스트 alphaV 랜딩페이지
 description: 가치투자를 위한 기업분석을 자동으로 해주는 로보에널리스트 alphaV의 렌딩페이지
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://alpha-v-app.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: alphaV
